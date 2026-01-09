@@ -1,1 +1,0 @@
-(Interpretación de resultados)\n

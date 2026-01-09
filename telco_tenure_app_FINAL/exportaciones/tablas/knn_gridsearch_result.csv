@@ -1,2 +1,0 @@
-best_params,best_mae_cv
-"{'model__n_neighbors': 21, 'model__p': 1, 'model__weights': 'uniform'}",11.900579732102532
