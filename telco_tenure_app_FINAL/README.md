@@ -1,0 +1,1 @@
+# Telco Tenure App\n\n(Completar objetivos + guía de ejecución)\n

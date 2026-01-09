@@ -1,0 +1,5 @@
+PaymentMethod,count,mean,median,min,max
+Bank transfer (automatic),1544,43.65673575129534,48.0,0,72
+Credit card (automatic),1522,43.269382391590014,47.0,0,72
+Electronic check,2365,25.17463002114165,18.0,1,72
+Mailed check,1612,21.830024813895783,15.0,0,72
